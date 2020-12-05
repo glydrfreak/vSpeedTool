@@ -2,10 +2,10 @@
 permalink: /index.html
 ---
 
-# OpenPPG Config
+# vSpeed Vario Config
  Configure your OpenPPG controller via WebUSB
 
- Lives at https://glydrfreak.github.io/vspeedtool/
+ Lives at https://glydrfreak.github.io/vSpeedTool/
 
 ### Notes:
 
